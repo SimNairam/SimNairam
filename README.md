@@ -1,0 +1,2 @@
+# SimNairam
+Miner
